@@ -1,0 +1,4 @@
+pydantic>=2.0
+pydantic-settings>=2.0
+requests
+aiogram>=3.4.0
